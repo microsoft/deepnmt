@@ -35,7 +35,7 @@ FAIRSEQ (v0.8): https://github.com/pytorch/fairseq<br/>
 ```
 ### Contact Information
 
-For personal communication related to this package, please contact Xiaodong Liu (`xiaodl@microsoft.com`).
+For personal communication related to this package, please contact Xiaodong Liu (`xiaodl@microsoft.com`), Kevin Duh (`kevinduh@cs.jhu.edu`) Liyuan Liu (`ll2@illinois.edu`), or Jianfeng Gao (`jfgao@microsoft.com`).
   
 
 > This repo has been populated by an initial template to help get you started. Please
