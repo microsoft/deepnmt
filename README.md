@@ -1,4 +1,42 @@
-# Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Very Deep Transformers for Neural Machine Translation
+
+This PyTorch package implements Very Deep Transformers for Neural Machine Translation, as described in:
+
+Xiaodong Liu,  Kevin Duh, Liyuan Liu and Jianfeng Gao<br/>
+Very deep transformers for neural machine translation <br/>
+[arXiv version](https://arxiv.org/abs/2008.07772) <br/>
+
+## Quickstart
+
+### Model Training
+1. Data Preprocessing
+   Please follow instructions: (https://github.com/pytorch/fairseq/tree/main/examples/scaling_nmt)
+2. Model Train </br>
+   > bash run_wmt14_en_fr.sh
+3. Model Eval </br>
+   > cd nmt_eval && bash eval_enfr.sh <model_path> <gpu> <init_path> <unperbound> <count>
+
+## Notes and Acknowledgments
+FAIRSEQ: https://github.com/pytorch/fairseq<br/>
+
+
+### How do I cite it?
+
+```
+
+@article{liu2020deepnmt,
+  title={Very deep transformers for neural machine translation},
+  author={Liu, Xiaodong and Duh, Kevin and Liu, Liyuan and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2008.07772},
+  year={2020}
+}
+```
+### Contact Information
+
+For personal communication related to this package, please contact Xiaodong Liu (`xiaodl@microsoft.com`).
+  
 
 > This repo has been populated by an initial template to help get you started. Please
 > make sure to update the content to build a great experience for community-building.
