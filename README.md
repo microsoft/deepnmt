@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/very-deep-transformers-for-neural-machine/machine-translation-on-wmt2014-english-french)](https://paperswithcode.com/sota/machine-translation-on-wmt2014-english-french?p=very-deep-transformers-for-neural-machine)
 
 ## Very Deep Transformers for Neural Machine Translation
 
@@ -32,6 +33,14 @@ FAIRSEQ (v0.8): https://github.com/pytorch/fairseq<br/>
   journal={arXiv preprint arXiv:2008.07772},
   year={2020}
 }
+   
+@inproceedings{liu2020admin,
+  title={Understanding the Difficulty of Training Transformers},
+  author = {Liu, Liyuan and Liu, Xiaodong and Gao, Jianfeng and Chen, Weizhu and Han, Jiawei},
+  booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)},
+  year={2020}
+}
+   
 ```
 ### Contact Information
 
