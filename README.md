@@ -20,7 +20,7 @@ Very deep transformers for neural machine translation <br/>
    > cd nmt_eval && bash eval_enfr.sh <model_path> <gpu> <init_path> <unperbound> <count>
 
 ## Notes and Acknowledgments
-FAIRSEQ (v0.8): https://github.com/pytorch/fairseq<br/>
+FAIRSEQ (v0.9): https://github.com/pytorch/fairseq<br/>
 
 
 ### How do I cite it?
